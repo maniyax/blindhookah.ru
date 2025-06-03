@@ -6,84 +6,39 @@
     <description>Recent content on Blind Hookah</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
-    <lastBuildDate>Mon, 24 Jan 2022 14:00:00 +0000</lastBuildDate><atom:link href="https://blindhookah.ru/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Jun 2025 13:19:03 +0100</lastBuildDate><atom:link href="https://blindhookah.ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Getting started</title>
-      <link>https://blindhookah.ru/docs/getting-started/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <title>Contacts</title>
+      <link>https://blindhookah.ru/contacts/</link>
+      <pubDate>Tue, 03 Jun 2025 13:19:14 +0100</pubDate>
       
-      <guid>https://blindhookah.ru/docs/getting-started/</guid>
-      <description>&lt;p&gt;Welcome to the Mainroad theme documentation. This quick start guide covers Mainroad theme installation and minimal
-configuration and is intended for intermediate to advanced users. To understand this guide, you need to be familiar
-with the &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; static site generator.&lt;/p&gt;</description>
+      <guid>https://blindhookah.ru/contacts/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Customization</title>
-      <link>https://blindhookah.ru/docs/customization/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <title>Misha Revolt</title>
+      <link>https://blindhookah.ru/misha-revolt/</link>
+      <pubDate>Tue, 03 Jun 2025 13:19:03 +0100</pubDate>
       
-      <guid>https://blindhookah.ru/docs/customization/</guid>
-      <description>&lt;p&gt;Customization page describes common Mainroad configuration parameters which can be specified via configuration file or
-via Front Matter section. That includes logo section tuning, adding a sidebar with widgets, adjusting highlight color,
-and more.&lt;/p&gt;</description>
+      <guid>https://blindhookah.ru/misha-revolt/</guid>
+      <description>MISHA Revolt
+Продолжаем пополнять базу подробных текстовых обзоров кальянной продукции.
+На новый год Настя подарила мне большой кальянный бокс, в котором оказался кальян от бренда MISHA, суббренда Alpha Hookah.
+Сегодня хотим подробно рассказать о нем и заострить внимание на конструктивных особенностях, так что приготовьтесь, будет многобукаф.
+Для начала стоит сказать, что это бюджетный кальян с РРЦ 6690 рублей, со средней, ближе к легкой, тягой и средней высотой (50 СМ без колбы), выполненный в ярком молодежном дизайне.</description>
     </item>
     
     <item>
-      <title>Frequently asked questions (FAQ)</title>
-      <link>https://blindhookah.ru/docs/faq/</link>
-      <pubDate>Mon, 24 Jan 2022 14:00:00 +0000</pubDate>
+      <title>Misha Revolt Hero Zmeya</title>
+      <link>https://blindhookah.ru/misha-revolt-hero-zmeya/</link>
+      <pubDate>Tue, 03 Jun 2025 13:06:59 +0100</pubDate>
       
-      <guid>https://blindhookah.ru/docs/faq/</guid>
-      <description>&lt;p&gt;Browse this FAQ page to find answers to frequently asked questions that have not been covered elsewhere
-in the documentation.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://blindhookah.ru/about/</link>
-      <pubDate>Tue, 25 Jan 2022 14:00:00 +0000</pubDate>
-      
-      <guid>https://blindhookah.ru/about/</guid>
-      <description>Our website builds with Hugo static site generator and Mainroad theme. This demo allows you to see what Mainroad based website looks like before deciding to go with it. Just keep in mind that the current demo shows the basics, a small part of what the combination of Hugo and Mainroad can do.
-About Mainroad Mainroad is a responsive, simple, clean and content-focused Hugo theme based on the MH Magazine lite WordPress theme.</description>
-    </item>
-    
-    <item>
-      <title>Basic HTML Elements</title>
-      <link>https://blindhookah.ru/basic-elements/</link>
-      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://blindhookah.ru/basic-elements/</guid>
-      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://blindhookah.ru/hugo-template-primer/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://blindhookah.ru/hugo-template-primer/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://blindhookah.ru/getting-started-with-hugo/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://blindhookah.ru/getting-started-with-hugo/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>https://blindhookah.ru/misha-revolt-hero-zmeya/</guid>
+      <description>&lt;p&gt;MISHA REVOLT HERO Zmeya&lt;/p&gt;
+&lt;p&gt;Весной у Alpha Hookah в рамках суббренда Misha вышел новый кальян в линейке Revolt Hero с накладкой ввиде оплетающей его змеи.&lt;/p&gt;
+&lt;p&gt;Год назад мы писали про кальян &lt;a href=&#34;https://blindhookah.ru/misha-revolt/&#34;&gt;Misha X Blackburn&lt;/a&gt; из линейки Revolt, и эта новинка отличный повод рассказать об отличии линейки Hero. Оно небольшое, однако тактильно крайне важное.&lt;/p&gt;
+&lt;p&gt;Кальян &amp;ldquo;Змея&amp;rdquo; засчет вырезов в серебристой металлической накладке и отсутствия краски на ней наощупь ощущается в разы выигрышнее классической модели. А с учетом, что через вырезы можно ощутить скелет, в этот раз окрашенный черной шершавой краской, так общее впечатление вовсе выше всяческих ожиданий.&lt;/p&gt;</description>
     </item>
     
   </channel>

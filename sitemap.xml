@@ -2,76 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blindhookah.ru/docs/getting-started/</loc>
-    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/docs/customization/</loc>
-    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/docs/faq/</loc>
-    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/about/</loc>
-    <lastmod>2022-01-25T14:00:00+00:00</lastmod>
+    <loc>https://blindhookah.ru/contacts/</loc>
+    <lastmod>2025-06-03T13:19:14+01:00</lastmod>
   </url><url>
     <loc>https://blindhookah.ru/</loc>
-    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/docs/</loc>
-    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/tags/installation/</loc>
-    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/tags/</loc>
-    <lastmod>2022-01-24T14:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/tags/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/basic-elements/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-03T13:19:03+01:00</lastmod>
   </url><url>
     <loc>https://blindhookah.ru/categories/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-03T13:19:03+01:00</lastmod>
   </url><url>
-    <loc>https://blindhookah.ru/tags/css/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <loc>https://blindhookah.ru/categories/misha/</loc>
+    <lastmod>2025-06-03T13:19:03+01:00</lastmod>
   </url><url>
-    <loc>https://blindhookah.ru/categories/development/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/tags/html/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <loc>https://blindhookah.ru/misha-revolt/</loc>
+    <lastmod>2025-06-03T13:19:03+01:00</lastmod>
   </url><url>
     <loc>https://blindhookah.ru/post/</loc>
-    <lastmod>2018-04-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-06-03T13:19:03+01:00</lastmod>
   </url><url>
-    <loc>https://blindhookah.ru/hugo-template-primer/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://blindhookah.ru/misha-revolt-hero-zmeya/</loc>
+    <lastmod>2025-06-03T13:06:59+01:00</lastmod>
   </url><url>
-    <loc>https://blindhookah.ru/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/getting-started-with-hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blindhookah.ru/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://blindhookah.ru/tags/</loc>
   </url>
 </urlset>
